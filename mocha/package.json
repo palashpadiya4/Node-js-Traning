@@ -1,0 +1,19 @@
+{
+  "name": "mochaandchai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "sinon": "^15.0.1"
+  }
+}
